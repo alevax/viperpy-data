@@ -1,24 +1,24 @@
 # viperpy-data
-Data Repository for (VIPER)[https://www.nature.com/articles/ng.3593]<sup>1</sup> analysis in Python, used in the Tutorials for the ${\color{green}PyVIPER}$	
+Data Repository for (VIPER)[https://www.nature.com/articles/ng.3593]<sup>1</sup> analysis in Python, used in the Tutorials for the ${\color{green}PyVIPER}$	package
 
 All data in this repository were sampled, postprocessed and generated from [Peng et al., 2019](https://www.nature.com/articles/s41422-019-0195-y#Sec26) <sup>2</sup>.
 
 # Directories:
 - `metadata`: collects metadata for UMI matrices and gene expression signatures.
-  <code style="color : green">Describe each file</code>
+  ${\color{green}Describe each file}$
 
 - `networks`: collection of regulatory networks inferred with the [ARACNe3](https://www.mdpi.com/1099-4300/25/3/542)<sup>3</sup>, the latest implementation of the [ARACNe](https://www.nature.com/articles/ng1532)<sup>4</sup> algorithm.
-  <code style="color : green">Describe each file</code> 
+  ${\color{green}Describe each file}$
 
-- `umi-matrices`: collects UMI matrices used in [Tutorial 1]() and [Tutorial 2]() <code style="color : green">add urls Tutorials</code>. These UMI matrices are subset of selected cell populations from  data in [Peng et al., 2019](https://www.nature.com/articles/s41422-019-0195-y#Sec26) <sup>2</sup>
-  <code style="color : green">Describe each file</code> 
+- `umi-matrices`: collects UMI matrices used in [Tutorial 1]() and [Tutorial 2](). ${\color{green}Add url Tutorials}$ These UMI matrices are subset of selected cell populations from  data in [Peng et al., 2019](https://www.nature.com/articles/s41422-019-0195-y#Sec26) <sup>2</sup>
+  ${\color{green}Describe each file}$
 
-- `gex_signatures`: gene expression signatures to be used with VIPER. See [Tutorial 1]() and [Tutorial 2]() <code style="color : green">add urls Tutorials</code> for details.
-  <code style="color : green">Describe each file</code> 
+- `gex_signatures`: gene expression signatures to be used with VIPER. See [Tutorial 1]() and [Tutorial 2]() ${\color{green}Add url Tutorials}$ for details.
+  ${\color{green}Describe each file}$
 
 
 ## Citation
-<code style="color : green">Add text</code>
+${\color{green}Add url Tutorials}$
 
 ## References
 1. Alvarez, M., Shen, Y., Giorgi, F. et al. Functional characterization of somatic mutations in cancer using network-based inference of protein activity. Nat Genet 48, 838–847 (2016). https://doi.org/10.1038/ng.3593
