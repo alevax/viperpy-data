@@ -1,16 +1,16 @@
 # viperpy-data
-Data Repository for [VIPER](https://www.nature.com/articles/ng.3593)<sup>1</sup> analysis in Python, used in the Tutorials for the ${\color{green}PyVIPER}$	package
+Data Repository for VIPER analysis<sup>1</sup> in Python. These data are used in the Tutorials of the ${\color{green}PyVIPER+url}$ package
 
-All data in this repository were sampled, postprocessed and generated from [Peng et al., 2019](https://www.nature.com/articles/s41422-019-0195-y#Sec26) <sup>2</sup>.
+All data were sampled, postprocessed and generated from Peng et al., 2019 <sup>2</sup>.
 
 # Directories:
 - `metadata`: collects metadata for UMI matrices and gene expression signatures.
   ${\color{green}Describe each file}$
 
-- `networks`: collection of regulatory networks inferred with the [ARACNe3](https://www.mdpi.com/1099-4300/25/3/542)<sup>3</sup>, the latest implementation of the [ARACNe](https://www.nature.com/articles/ng1532)<sup>4</sup> algorithm.
+- `networks`: collection of regulatory networks inferred with ARACNe3, the latest implementation of the ARACNe<sup>3,4</sup> algorithm.
   ${\color{green}Describe each file}$
 
-- `umi-matrices`: collects UMI matrices used in [Tutorial 1]() and [Tutorial 2](). ${\color{green}Add url Tutorials}$ These UMI matrices are subset of selected cell populations from  data in [Peng et al., 2019](https://www.nature.com/articles/s41422-019-0195-y#Sec26) <sup>2</sup>
+- `umi-matrices`: collects UMI matrices used in [Tutorial 1]() and [Tutorial 2](). ${\color{green}Add url Tutorials}$ These UMI matrices are subset of selected cell populations from  data in Peng et al., 2019<sup>2</sup>
   ${\color{green}Describe each file}$
 
 - `gex_signatures`: gene expression signatures to be used with VIPER. See [Tutorial 1]() and [Tutorial 2]() ${\color{green}Add url Tutorials}$ for details.
