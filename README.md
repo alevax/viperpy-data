@@ -1,5 +1,5 @@
 # viperpy-data
-Data Repository for (VIPER)[https://www.nature.com/articles/ng.3593]<sup>1</sup> analysis in Python, used in the Tutorials for the $${\color{green}PyVIPER}$$	
+Data Repository for (VIPER)[https://www.nature.com/articles/ng.3593]<sup>1</sup> analysis in Python, used in the Tutorials for the ${\color{green}PyVIPER}$	
 
 All data in this repository were sampled, postprocessed and generated from [Peng et al., 2019](https://www.nature.com/articles/s41422-019-0195-y#Sec26) <sup>2</sup>.
 
