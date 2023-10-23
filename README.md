@@ -10,10 +10,10 @@ All data were sampled, postprocessed and generated from Peng et al., 2019 <sup>2
 - `networks`: collection of regulatory networks inferred with ARACNe3, the latest implementation of the ARACNe<sup>3,4</sup> algorithm.
   ${\color{green}Describe--each--file}$
 
-- `umi-matrices`: collects UMI matrices used in [Tutorial 1]() and [Tutorial 2](). ${\color{green}Add url Tutorials}$ These UMI matrices are subset of selected cell populations from  data in Peng et al., 2019<sup>2</sup>
+- `umi-matrices`: collects UMI matrices used in [Tutorial 1]() and [Tutorial 2](). ${\color{green}Add--url--Tutorials}$ These UMI matrices are subset of selected cell populations from  data in Peng et al., 2019<sup>2</sup>
   ${\color{green}Describe--each--file}$
 
-- `gex_signatures`: gene expression signatures to be used with VIPER. See [Tutorial 1]() and [Tutorial 2]() ${\color{green}Add url Tutorials}$ for details.
+- `gex_signatures`: gene expression signatures to be used with VIPER. See [Tutorial 1]() and [Tutorial 2]() ${\color{green}Add--url--Tutorials}$ for details.
   ${\color{green}Describe--each--file}$
 
 
